@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+boto3
+psycopg2-binary
+redis
+numpy
+pandas
+torch
+torchvision
+transformers
+accelerate
+pytorch-forecasting
